@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h2><strong>Anime Spring 2021</strong></h2>
+		<h2><strong>Anime Fall 2021</strong></h2>
 		<input type="search" placeholder="Search...">
 		<button>Search</button>
 		
