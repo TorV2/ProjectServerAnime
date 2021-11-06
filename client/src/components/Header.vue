@@ -21,7 +21,7 @@ export default {};
 </script>
 <style scoped>
 .nv-navbar {
-	background-color: blue;
+	background-color: orange;
 	width: 100%;
 	padding: 10px 0px 10px 0px;
 }
@@ -37,7 +37,7 @@ export default {};
 .nv-navbar .nav li a {
 	padding: 10px;
 	text-decoration: none;
-	color: skyblue;
+	color: red;
 	font-weight: bold;
 }
 .nv-navbar .nav li a:hover {
@@ -46,8 +46,8 @@ export default {};
 	color: yellow;
 }
 .nv-navbar .nav li a.router-link-active {
-	background-color: skyblue;
-	color: blue;
+	background-color: red;
+	color: orange;
 }
 .clearfix {
 	clear: left;

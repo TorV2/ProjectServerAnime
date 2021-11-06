@@ -23,7 +23,7 @@ export default {
   text-align: center; 
   color: black;
   margin-top: 5x;
-  background-image: url("./assets/bg5.jpg");
+  background-image: url("./assets/bg7.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

@@ -32,7 +32,7 @@
 				</button>
 				<button v-on:click="deleteBlog(blog)">ลบข้อมูล</button>
 			</p>
-			<hr width="50%" size="10" color="blue">
+			<hr width="50%" size="10" color="gold">
 			
 		</div>
 	</div>
